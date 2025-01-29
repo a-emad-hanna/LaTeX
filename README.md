@@ -1,2 +1,2 @@
-# LaTex
- LaTex Projects
+# LaTeX
+ LaTeX Projects
