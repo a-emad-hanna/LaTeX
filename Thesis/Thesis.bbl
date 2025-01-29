@@ -1,0 +1,27 @@
+\begin{thebibliography}{1}
+
+\bibitem{aamodt2018general}
+Tor~M Aamodt, Wilson Wai~Lun Fung, and Timothy~G Rogers.
+\newblock {\em General-Purpose Graphics Processor Architecture}.
+\newblock Synthesis Lectures on Computer Architecture. Morgan \& Claypool
+  Publishers, 2018.
+
+\bibitem{hennessy2011computer}
+John~L. Hennessy and David~A. Patterson.
+\newblock {\em Computer Architecture: A Quantitative Approach}.
+\newblock Morgan Kaufmann, San Francisco, CA, 5 edition, 2011.
+
+\bibitem{Satriawan2023}
+Ardianto Satriawan, Infall Syafalni, Rella Mareta, Isa Anshori, Wervyan
+  Shalannanda, and Aleams Barra.
+\newblock Conceptual review on number theoretic transform and comprehensive
+  review on its implementations.
+\newblock {\em School of Electrical Engineering and Informatics, Institut
+  Teknologi Bandung}, 2023.
+
+\bibitem{vortex2023}
+Georgia~Tech University.
+\newblock A general-purpose gpu accelerator.
+\newblock \url{https://github.com/vortexgpgpu/vortex}, 2023.
+
+\end{thebibliography}

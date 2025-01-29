@@ -1,0 +1,31 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Schoolbook method for polynomial multiplication or linear convolution with $O(n^2)$ complexity}}{11}{figure.caption.4}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Schoolbook method for positively wrapped modular polynomial multiplication or cyclic convolution with $O(n^2)$ complexity}}{11}{figure.caption.5}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Schoolbook method for negatively wrapped modular polynomial multiplication or negacyclic convolution with $O(n^2)$ complexity}}{12}{figure.caption.6}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Cooley-Tukey (CT) butterfly unit for calculating NTT}}{20}{figure.caption.7}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces CT Butterflies for n = 4 and [1, 2, 3, 4] as its input}}{21}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Gentleman-Sande (GS) butterfly unit for calculating INTT}}{22}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces GS Butterflies for n = 4 and [1467, 2807, 3471, 7621] as its input}}{23}{figure.caption.10}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces RISC-V Base Instruction Formats}}{26}{figure.caption.12}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Simplified block diagram of a Multithreaded SIMD Processor}}{28}{figure.caption.14}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Vortex Microarchitecture}}{29}{figure.caption.15}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Block Diagram of the Schedule Stage}}{30}{figure.caption.16}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Block Diagram of the Fetch Stage}}{31}{figure.caption.17}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Mapping of different instruction types to different execution units}}{31}{figure.caption.18}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Block Diagram of the Decode Stage}}{32}{figure.caption.19}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Block Diagram of the Issue Stage}}{32}{figure.caption.20}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Block Diagram of Operand Collector}}{33}{figure.caption.21}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Block Diagram of Issue Slice}}{34}{figure.caption.22}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Dispatch and Gather of Threads}}{35}{figure.caption.23}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Branch Divergence and IPDOM Stack}}{36}{figure.caption.24}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Barrier Handling in SIMT Execution}}{37}{figure.caption.25}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Memory Unit Block Diagram}}{39}{figure.caption.26}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Block Diagram of the Execute Stage}}{40}{figure.caption.27}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Block Diagram of the Commit Stage}}{41}{figure.caption.28}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Skid Buffer Handshake Protocol between Schedule \& Fetch Stages}}{41}{figure.caption.29}%
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Host Compilation Flow}}{43}{figure.caption.31}%
+\contentsline {figure}{\numberline {4.18}{\ignorespaces GPU Compilation Flow}}{43}{figure.caption.32}%
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Execution Flow}}{44}{figure.caption.33}%

@@ -1,0 +1,65 @@
+\contentsline {chapter}{Contents}{3}{chapter*.1}%
+\contentsline {chapter}{List of Figures}{5}{chapter*.2}%
+\contentsline {chapter}{List of Tables}{6}{chapter*.3}%
+\contentsline {chapter}{\numberline {1}Introduction}{7}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Problem Statement}{7}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Motivation}{7}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Scope and Objectives}{7}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Thesis Contribution}{8}{section.1.4}%
+\contentsline {part}{I\hspace {1em}Literature Review}{9}{part.1}%
+\contentsline {chapter}{\numberline {2}Numerical Theoretic Transform (NTT)}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Linear, Cyclic, and Negacyclic Convolution}{10}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Polynomial Multiplication and Linear Convolution}{10}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Cyclic Convolution}{11}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Negacyclic Convolution}{12}{subsection.2.1.3}%
+\contentsline {section}{\numberline {2.2}NTT-Based Convolution}{12}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Primitive $n^{th}$ Root of Unity}{13}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}NTT-Based Positive-Wrapped Convolution}{13}{subsection.2.2.2}%
+\contentsline {subsubsection}{Number Theoretic Transform Based on $\omega $}{13}{subsection.2.2.2}%
+\contentsline {subsubsection}{Inverse Number Theoretic Transform Based on $\omega $}{14}{subsection.2.2.2}%
+\contentsline {subsubsection}{Using NTT to Calculate Positive-Wrapped Convolutions}{15}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}NTT-Based Negative-Wrapped Convolution}{16}{subsection.2.2.3}%
+\contentsline {subsubsection}{Primitive $2n$-th Root of Unity}{16}{subsection.2.2.3}%
+\contentsline {subsubsection}{Number Theoretic Transform Based on $\psi $}{17}{subsection.2.2.3}%
+\contentsline {subsubsection}{Inverse Number Theoretic Transform Based on $\psi $}{18}{subsection.2.2.3}%
+\contentsline {subsubsection}{Using NTT$^{\psi }$ to Calculate Negative-Wrapped Convolutions}{19}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Fast NTT}{19}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Cooley-Tukey (CT) Algorithm for Fast-NTT}{20}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Gentleman-Sande (GS) Algorithm for Fast-INTT}{21}{subsection.2.3.2}%
+\contentsline {chapter}{\numberline {3}RISC-V}{24}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Overview of RISC-V Architecture}{24}{section.3.1}%
+\contentsline {section}{\numberline {3.2}RISC-V Registers}{25}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Instruction Fields}{25}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Base ISA}{25}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Vortex GPGPU}{27}{chapter.4}%
+\contentsline {section}{\numberline {4.1}SIMD \& SIMT Execution}{27}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}SIMD}{27}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}SIMT}{27}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Microarchitecture}{28}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Core Pipeline}{29}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Schedule Stage}{29}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Fetch Stage}{30}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Decode Stage}{31}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Issue Stage}{32}{subsection.4.3.4}%
+\contentsline {subsubsection}{Instruction Buffer}{33}{figure.caption.20}%
+\contentsline {subsubsection}{Scoreboard}{33}{figure.caption.20}%
+\contentsline {subsubsection}{Operand Collector}{33}{figure.caption.20}%
+\contentsline {subsubsection}{Dispatch}{34}{figure.caption.21}%
+\contentsline {subsection}{\numberline {4.3.5}Execute Stage}{34}{subsection.4.3.5}%
+\contentsline {subsubsection}{Dispatch Unit}{34}{subsection.4.3.5}%
+\contentsline {subsubsection}{ALU}{35}{figure.caption.23}%
+\contentsline {subsubsection}{FPU}{36}{figure.caption.23}%
+\contentsline {subsubsection}{SFU}{36}{figure.caption.23}%
+\contentsline {subsubsection}{LSU}{37}{figure.caption.25}%
+\contentsline {subsection}{\numberline {4.3.6}Memory Unit}{38}{subsection.4.3.6}%
+\contentsline {subsubsection}{Local Memory Switch}{38}{subsection.4.3.6}%
+\contentsline {subsubsection}{Memory Coalescer}{38}{subsection.4.3.6}%
+\contentsline {subsubsection}{Adapter}{39}{subsection.4.3.6}%
+\contentsline {subsection}{\numberline {4.3.7}Commit Stage}{40}{subsection.4.3.7}%
+\contentsline {subsection}{\numberline {4.3.8}Interfaces between Stages}{41}{subsection.4.3.8}%
+\contentsline {subsubsection}{Handshake Protocol Using Skid Buffers}{41}{subsection.4.3.8}%
+\contentsline {section}{\numberline {4.4}Software Stack}{42}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Host Compilation Flow}{42}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}GPU Compilation Flow}{43}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Vortex Execution flow}{44}{subsection.4.4.3}%
+\contentsline {chapter}{References}{45}{chapter*.34}%
